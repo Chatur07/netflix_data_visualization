@@ -49,9 +49,9 @@ Some key visualizations included in this project:
 ## 🤝 Contributions  
 Contributions are welcome! Feel free to fork this repository and submit a pull request.  
 
-## 📬 Contact  
-For any queries or suggestions, reach out via:  
-📧 vikhyatchaturvedi0931@gmail.com  
+## Show support   
+   ⭐ Star the repository 
+   🙌 Follow on github & Linkedin
 
 ---
 
