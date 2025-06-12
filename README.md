@@ -49,9 +49,13 @@ Some key visualizations included in this project:
 ## 🤝 Contributions  
 Contributions are welcome! Feel free to fork this repository and submit a pull request.  
 
-## Show support   
-   ⭐ Star the repository 
-   🙌 Follow on github & Linkedin
+## 🙌 Show Your Support
+
+If you like this project:
+
+* ⭐ **Star the repository**
+* 🤝 **Follow on [GitHub](https://github.com/Chatur07)** and [LinkedIn](www.linkedin.com/in/vikhyat-chaturvedi-678308252)
+* 💬 Share feedback or contribute!
 
 ---
 
